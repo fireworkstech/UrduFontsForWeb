@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Jameel-Noori-Nastaleeq";
+    src: url("https://github.com/fireworkstech/UrduFontsForWeb/raw/master/Jameel-Noori-Nastaleeq.woff") format('woff');
+}
+
+@font-face {
+    font-family: "Jameel-Noori-Nastaleeq";
+    src: url("https://github.com/fireworkstech/UrduFontsForWeb/raw/master/Jameel-Noori-Nastaleeq.woff") format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Jameel-Noori-Nastaleeq";
+    src: url("https://github.com/fireworkstech/UrduFontsForWeb/raw/master/Jameel-Noori-Nastaleeq.woff") format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Jameel-Noori-Nastaleeq";
+    src: url("https://github.com/fireworkstech/UrduFontsForWeb/raw/master/Jameel-Noori-Nastaleeq.woff") format('woff');
+    font-style: italic;
+}
